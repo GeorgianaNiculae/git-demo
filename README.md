@@ -1,3 +1,3 @@
 # git-demo
 
-some conect
+some connect
